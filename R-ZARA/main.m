@@ -1,9 +1,9 @@
 //
 //  main.m
-//  SidebarDemo
+//  Malum
 //
-//  Created by Simon Ng on 9/11/14.
-//  Copyright (c) 2014 AppCoda. All rights reserved.
+//  Created by Mars on 6/16/16.
+//  Copyright © 2016 Mars. All rights reserved.
 //
 
 #import <UIKit/UIKit.h>

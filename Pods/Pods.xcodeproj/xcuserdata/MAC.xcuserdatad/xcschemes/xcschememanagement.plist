@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>SchemeUserState</key>
+	<dict>
+		<key>DXCustomCallout-ObjC.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>1</integer>
+		</dict>
+		<key>Pods-Malum.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>2</integer>
+		</dict>
+		<key>Pods-MalumTests.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>3</integer>
+		</dict>
+		<key>Pods-MalumUITests.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>4</integer>
+		</dict>
+	</dict>
+	<key>SuppressBuildableAutocreation</key>
+	<dict>
+		<key>1FD57D20FA8B38B4804F6F82FBEE6C8C</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>8BB37B98F1132CBDAF217F70E6E05681</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>B23AFA5C97ED356AE5B7AF71330EC109</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>EB08C93E917B9F329A18E5DE4088F6EB</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+	</dict>
+</dict>
+</plist>
